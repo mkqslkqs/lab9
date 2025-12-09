@@ -40,4 +40,11 @@ This repository contains **three independent React applications**, each demonstr
 
 ---
 
-## 🌱 Project Structure
+
+---
+
+## 🚀 How to Run Any Task
+```bash
+cd task-folder
+npm install
+npm start
